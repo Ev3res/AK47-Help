@@ -184,13 +184,13 @@ Lookup a user and cancel your outgoing friend request if there is any.
 > host
 
 Host custom matchmaking games (codes sent to verified users only). (Server admins only)
-### Steps :
-**1.** Start by making a channel for custom games then do the command `host`
-**2.** Write down your GameMode name ,then your game rules
-**3.** The bot will dm you with your custom matchmaking code, go in game and start hosting the match with the same code the bot sent
-**4.** Tell your viewers/friends to react to the custom matchmaking message to enroll to the match
-**5.** After getting enough number of player, go to the channel you hosted in, do the command `start` to start spreading your custom code to your players
-**Disclaimer** : Non-Verified user will not receive the code, only verified members will. 
+### Steps:
+1. Start by making a channel for custom games then do the command `host`
+2. Write down your GameMode name ,then your game rules
+3. The bot will dm you with your custom matchmaking code, go in game and start hosting the match with the same code the bot sent
+4. Tell your viewers/friends to react to the custom matchmaking message to enroll to the match
+5. After getting enough number of player, go to the channel you hosted in, do the command `start` to start spreading your custom code to your players
+**Disclaimer**: Non-Verified user will not receive the code, only verified members will. 
 
 > prefix <*new prefix*>
 
@@ -210,7 +210,7 @@ Send message to instruct people about verify themselves
 
 Verify your ownership for your Epic account. (DMs only)
 ### Steps :
-**1.** Start dming AK47 with command `verify`
-**2.** Write down your epic username after a couple of seconds you will receive a friend request from `AK47-BOT`
-**3.** After accepting the friend request `whisper` the bot with the verification code you received from ak47 on discord
-**4.** AllGood!, You are now verified (Epic Linked To Discord), And you can now receive custom code from your favourite streamer/hoster.
+1. Start dming AK47 with command `verify`
+2. Write down your epic username after a couple of seconds you will receive a friend request from `AK47-BOT`
+3. After accepting the friend request `whisper` the bot with the verification code you received from ak47 on discord
+4. All Good!, You are now verified (Epic Linked To Discord), And you can now receive custom code from your favourite streamer/hoster.
